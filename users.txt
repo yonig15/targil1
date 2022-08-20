@@ -1,1 +1,1 @@
-10=connectionsCount v
+var connectionsCount=10
